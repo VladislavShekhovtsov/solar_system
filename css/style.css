@@ -105,7 +105,6 @@ div.cosmos {
  
  .block2 {
     position: absolute;
-    border-radius: 50%;
     transform-style: preserve-3d;
     animation: invert infinite linear;
  }
